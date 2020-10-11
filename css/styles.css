@@ -1,5 +1,5 @@
 body {
-  background: #fff URL("/images/treetops_bkg.jpg");
+  background: url("images/treetops_bkg.jpg");
   font-family: sans-serif; }
   body img {
     width: 100%; }
