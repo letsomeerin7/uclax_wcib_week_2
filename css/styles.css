@@ -1,5 +1,5 @@
 body {
-  background: url("/images/treetops_bkg.jpg");
+  background: url("../images/treetops_bkg.jpg");
   background-repeat: repeat-y;
   background-size: contain;
   font-family: Georgia, serif; }
