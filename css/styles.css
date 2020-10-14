@@ -1,5 +1,34 @@
 body {
-  background-image: url("../images/treetops_bkg.jpg");
-  font-family: sans-serif; }
+  background: url("/images/treetops_bkg.jpg");
+  background-repeat: repeat-y;
+  background-size: contain;
+  font-family: "Buena Park JK", Georgia, serif; }
+  body html {
+    font-size: 10px; }
+  body .box {
+    width: 500px;
+    height: 500px;
+    align-items: center; }
   body img {
-    width: 100%; }
+    width: 100%;
+    height: 100%;
+    align-content: center; }
+  body h1 {
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+    line-height: 1.75; }
+  body h2 {
+    font-size: 3rem;
+    color: white;
+    line-height: 1.75; }
+  body p {
+    font-size: 1.8rem;
+    color: white;
+    line-height: 1.6; }
+  body li {
+    font-size: 1.5rem;
+    color: white; }
+  body footer {
+    font-size: 1rem;
+    color: white; }
