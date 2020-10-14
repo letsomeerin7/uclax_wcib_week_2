@@ -12,6 +12,7 @@ body {
     width: 600px;
     height: 600px; }
   body iframe {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     border: 0; }
